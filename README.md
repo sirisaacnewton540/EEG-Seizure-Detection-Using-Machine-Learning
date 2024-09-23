@@ -7,7 +7,7 @@ This project aims to apply machine learning to detect epileptic seizures from el
 This project utilizes EEG data to build machine learning models that classify seizure and non-seizure events. By applying feature extraction techniques and state-of-the-art models like CNN-LSTM, we aim to create an automated, accurate, and real-time seizure detection system that could be integrated into clinical practice.
 
 ## Results
-![1](https://github.com/user-attachments/assets/eee979a2-54d8-4e52-b349-9e4f3490ad76)
+![3](https://github.com/user-attachments/assets/ac0116cd-23db-44a6-a599-aef728ab1c22)
 
 ![2](https://github.com/user-attachments/assets/2e01712f-0433-4fb7-ac2c-45a221c43b02)
 
